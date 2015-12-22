@@ -133,14 +133,6 @@
   * \# of reviews: 6
   * Why: huge space, 16 beds, right in the posh part of Berlin
 
-* []()
-  * Location: 
-  * Bedrooms: 
-  * Price per night: 
-  * Rating: 
-  * \# of reviews: 
-  * Why:
-
 ### Sweden
 
 * [Unique accommodation in Sthlm City!](https://www.airbnb.com/rooms/8100140?s=xrRSEPz5)
