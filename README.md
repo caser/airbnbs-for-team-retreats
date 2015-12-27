@@ -2,7 +2,7 @@
 
 We discover a lot of awesome AirBnBs in our scouting for [Hacker Paradise](http://hackerparadise.org), so as a side project, we decided to release the top ones publicly in an open, community-driven list.
 
-[You can check it out here.](http://caser.github.io/airbnbs-for-team-retreats/).
+[You can view the live version of the list here.](http://caser.github.io/airbnbs-for-team-retreats/)
 
 So far, we've added venues in the following destinations
 
