@@ -34,7 +34,7 @@
   * Price per night: $541
   * Rating: 4.5
   * \# of reviews: 43
-  * Why: huge apartment in central Barcelona, very cool are
+  * Why: huge apartment in central Barcelona, very cool area
 
 * [Biggest luxury apartment Eixample](https://www.airbnb.com/rooms/1098894?s=LKTYinQb)
   * Location: Barcelona, Spain
@@ -161,7 +161,7 @@
 
 ### Tokyo
 
-* [7BR Kagurazaka Huge Charming House!](https://www.airbnb.com/rooms/7689688?s=kYkY8bCM)
+* [7BR Kagurazaka Huge Charming House!](https://www.airbnb.com/rooms/4597787)
   * Location: Kagurazaka, Tokyo, Japan
   * Bedrooms: 7
   * Price per night: $357
@@ -179,7 +179,7 @@
   * Why: big house located in central Tokyo
 
 * [6LDK best for groups near Shinjuku!](https://www.airbnb.com/rooms/1742906?s=kYkY8bCM)
-  * Location: Nakano, Tokyo, Jpaan
+  * Location: Nakano, Tokyo, Japan
   * Bedrooms: 6
   * Price per night: $300
   * Rating: 4.5
@@ -188,7 +188,7 @@
 
 ### Japan - Other
 
-* [Shirahama Resort Home](https://www.airbnb.com/rooms/1742906?s=kYkY8bCM)
+* [Shirahama Resort Home](https://www.airbnb.com/rooms/7604428)
   * Location: Shirahama, Shizuoka, Japan
   * Bedrooms: 8
   * Price per night: $390
@@ -197,7 +197,7 @@
   * Why: large house near the beach with kitchen, game room, and BBQ area
 
 * [KOYA CLUB Japanese garden2000㎡](https://www.airbnb.com/rooms/3940496?s=VCWDiwSM)
-  * Location: Takshima, Shiga, Japan
+  * Location: Takashima, Shiga, Japan
   * Bedrooms: 6
   * Price per night: $500
   * Rating: 5
@@ -264,4 +264,3 @@
   * Rating: 
   * \# of reviews: 
   * Why:
-
