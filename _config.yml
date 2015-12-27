@@ -1,0 +1,13 @@
+# Site settings
+title: Awesome AirBnBs for Team Retreats
+email: facilitators@hackerparadise.org
+description: > # this means to ignore newlines until "baseurl:"
+  Hacker Paradise - travel the world with other awesome developers, designers,
+  and entrepreneurs. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hackerparadise.org" # the base hostname & protocol for your site
+twitter_username: hackerparadise
+github_username:  caser
+
+# Build settings
+markdown: kramdown
